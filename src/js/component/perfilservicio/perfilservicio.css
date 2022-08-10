@@ -1,0 +1,36 @@
+.clasficacion{
+    color: gold;
+    font-size: 50px;
+}
+.list-servicios{
+    font-size: 20px;
+    font-weight: 500;
+}
+.list-servicios a:hover{
+    color: #04386a;
+}
+.carousel-control-next{
+    display: none;
+}
+.carousel-indicators{
+    margin-bottom: 0px;
+}
+
+.enviar-comentario{
+    color:white;
+    background-color: #04386a;
+    font-size: 20px;
+}
+.enviar-comentario:hover, .status:hover {
+    color:#399683;
+
+}
+.modal-dialog{
+    height: 90vh;
+}
+.actualizar:hover{
+    color: white;
+}
+.detalle-servicio{
+    margin-left: 35px;
+}
